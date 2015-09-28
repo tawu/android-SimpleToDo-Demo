@@ -2,5 +2,5 @@
 This is first practice project for CodePath
 
 animated gif of this project:
-SimpleToDo.gif
+https://github.com/tawu/android-SimpleToDo-Demo/SimpleToDo.gif
 
